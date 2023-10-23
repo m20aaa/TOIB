@@ -26,7 +26,7 @@
 
 ## Проверка наличия созданных пользователей
 
-![](screenshots/created-users.png)
+![](screenshots/added-users.png)
 
 ## Развёртывание приложения Nextcloud с использованием Docker
 
@@ -38,9 +38,9 @@
 
 ![](screenshots/create-client-1.png)
 
-![](screenshots/client-client-2.png)
+![](screenshots/create-client-2.png)
 
-![](screenshots/client-client-3.png)
+![](screenshots/create-client-3.png)
 
 ## Создание ролей `admin` и `user`
 
