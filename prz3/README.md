@@ -14,7 +14,7 @@
 
 ![](screenshots/add-rules-server.png)
 
-### Применение конфигурации `rsyslog`
+### Применение конфигурации `rsyslog` на сервере
 
 ![](screenshots/apply-changes-server.png)
 
@@ -28,7 +28,7 @@
 
 ![](screenshots/add-rule-client.png)
 
-### Применение конфигурации `rsyslog`
+### Применение конфигурации `rsyslog` на клиенте
 
 ![](screenshots/apply-changes-client.png)
 
