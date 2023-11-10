@@ -74,7 +74,7 @@
 
 ![](screenshots/signoz-start-page.png)
 
-### Используемое приложения на клиенте для отправки данных в Signoz - https://github.com/SigNoz/sample-nodejs-app/
+### Используемое приложение на клиенте для отправки данных в Signoz - https://github.com/SigNoz/sample-nodejs-app/
 
 ![](screenshots/nodejs-docker-compose.png)
 
